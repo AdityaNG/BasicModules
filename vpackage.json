@@ -1,1 +1,1 @@
-{"packageDetails": {"packageName": "BasicModules", "packageAuthors": ["adityang5@gmail.com"]}, "packageURL": "https://github.com/AdityaNG/BasicModules", "fileList": ["BasicModules.v"], "testBench": ["testbench.v"], "dependencyList": []}
+{"packageDetails": {"packageName": "BasicModules", "packageAuthors": ["adityang5@gmail.com"]}, "packageURL": "https://github.com/AdityaNG/BasicModules", "fileList": ["BasicModules.v", "lib.v"], "testBench": ["testbench.v"], "dependencyList": []}

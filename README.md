@@ -5,7 +5,7 @@ A vPackage of many basic modules like Muxes, Flip-Flops, Latches, FAs, HAs
 
 ## Modules 
 
-1. module full_adder(input wire a, b, c_in, output wire s, c_out)
+1. full_adder(input wire a, b, c_in, output wire s, c_out)
 2. half_adder(input wire a, b, output wire s, c_out)
 3. mux_2_1(input wire i0, i1, j, output wire o)
 4. demux_1_2(input wire i, j, output wire o0, o1)
