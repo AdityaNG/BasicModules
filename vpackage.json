@@ -1,1 +1,1 @@
-{"packageDetails": {"packageName": "BasicModules", "packageAuthors": ["adityang5@gmail.com"]}, "packageURL": "https://github.com/AdityaNG/BasicModules", "testBench": ["testbench.v"], "dependencyList": []}
+{"packageDetails": {"packageName": "BasicModules", "packageAuthors": ["adityang5@gmail.com"]}, "packageURL": "https://github.com/AdityaNG/BasicModules", "fileList": ["decoder.v", "demux.v", "flip_flop.v", "full_adder.v", "half_adder.v", "latch.v", "mux.v"], "testBench": ["testbench.v"], "dependencyList": []}
